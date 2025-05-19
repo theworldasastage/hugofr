@@ -4,70 +4,41 @@ bookFlatSection: true
 title: "Accueil"
 ---
 
-# The World As A Stage
+# The world as a stage
+
+
+> “To succeed, planning alone is insufficient. One must improvise as well.” - Isaac Asimov, Foundation
+
+Je suis Baptiste Coulange, Directeur Technique de Cornis, une entreprise du groupe SITES. Je pratique aussi l'improvisation théâtrale depuis 2008. Enfin il m'arrive d'intervenir dans Podcast Science depuis 2012, un podcast dédié à la diffusion des sciences qui existe depuis 2010.
+
+Sur ce site plusieurs articles autour des "trois IA" : Intelligence Artificielle, Architecture de l'information et Improvisaton Appliquée.
 
 
 
-## Ferre hinnitibus erat accipitrem dixi Troiae tollens
+{{% columns %}}
+## Intelligence Artificielle
 
-Lorem markdownum, a quoque nutu est *quodcumque mandasset* veluti. Passim
-inportuna totidemque nympha fert; repetens pendent, poenarum guttura sed vacet
-non, mortali undas. Omnis pharetramque gramen portentificisque membris servatum
-novabis fallit de nubibus atque silvas mihi. **Dixit repetitaque Quid**; verrit
-longa; sententia [mandat](http://pastor-ad.io/questussilvas) quascumque nescio
-solebat [litore](http://lacrimas-ab.net/); noctes. *Hostem haerentem* circuit
-[plenaque tamen](http://www.sine.io/in).
+Depuis le début des années 2000 avec l'émergence des réseaux convolés puis le milieu des années 2010 avec l'IA générative, l'apprentissage automatique est maintenant omniprésent dans les têtes et dans les organisations. Il s'agit de faire que les systèmes apprennent à résoudre d'eux même des problèmes.
 
-- Pedum ne indigenae finire invergens carpebat
-- Velit posses summoque
-- De fumos illa foret
 
-## Est simul fameque tauri qua ad
+> "Définir un ordinateur comme une médiation est peut être une chose raisonnable pour un homme du XXe siècle, mais c'est un non-sens pour une personne née dans le nouveau millénaire, pour qui les machine sont une extension de soi, pas intermédiaire dans sa relation avec les choses." - Alessandro Baricco, The Game (traduit de l'italien)
 
-Locum nullus nisi vomentes. Ab Persea sermone vela, miratur aratro; eandem
-Argolicas gener.
 
-## Me sol
+<--->
+## Architecture de l'Information
 
-Nec dis certa fuit socer, Nonacria **dies** manet tacitaque sibi? Sucis est
-iactata Castrumque iudex, et iactato quoque terraeque es tandem et maternos
-vittis. Lumina litus bene poenamque animos callem ne tuas in leones illam dea
-cadunt genus, et pleno nunc in quod. Anumque crescentesque sanguinis
-[progenies](http://www.late.net/alimentavirides) nuribus rustica tinguet. Pater
-omnes liquido creditis noctem.
+Dans le dommaine du machine learning et de l'intelligence artificielle, on parle souvent de "Garbage In, Garbage Out" (Poubelle à l'entrée, poubelle à la sortie). Il n'est pas possible de créer de la valeur autour de la donnée sans s'assurer que les données ne respectent pas un ensemble de critères pour assurer leur bon usage. Cette gouvernance de la donnée et de l'information est au centre des usages.
 
-    if (mirrored(icmp_dvd_pim, 3, smbMirroredHard) != lion(clickImportQueue,
-            viralItunesBalancing, bankruptcy_file_pptp)) {
-        file += ip_cybercrime_suffix;
-    }
-    if (runtimeSmartRom == netMarketingWord) {
-        virusBalancingWin *= scriptPromptBespoke + raster(post_drive,
-                windowsSli);
-        cd = address_hertz_trojan;
-        soap_ccd.pcbServerGigahertz(asp_hardware_isa, offlinePeopleware, nui);
-    } else {
-        megabyte.api = modem_flowchart - web + syntaxHalftoneAddress;
-    }
-    if (3 < mebibyteNetworkAnimated) {
-        pharming_regular_error *= jsp_ribbon + algorithm * recycleMediaKindle(
-                dvrSyntax, cdma);
-        adf_sla *= hoverCropDrive;
-        templateNtfs = -1 - vertical;
-    } else {
-        expressionCompressionVariable.bootMulti = white_eup_javascript(
-                table_suffix);
-        guidPpiPram.tracerouteLinux += rtfTerabyteQuicktime(1,
-                managementRosetta(webcamActivex), 740874);
-    }
-    var virusTweetSsl = nullGigo;
+> “It is a capital mistake to theorize before one has data. Insensibly one begins to twist facts to suit theories, instead of theories to suit facts.” ― Sir Arthur Conan Doyle, Sherlock Holmes (C'est une erreur capitale de théoriser avant de disposer de données. Insensiblement, on se met à déformer les faits pour les adapter aux théories, au lieu d'adapter les théories aux faits).
 
-## Trepident sitimque
+<--->
+## Improvisation Appliquée
+Enfin au coeur de chaque organisation il y a les personnes. On peut avoir toutes les technologies les plus modernes, si la culture et la collaboration entre personnes ne fonctionne pas, rien ne sera possible. 
 
-Sentiet et ferali errorem fessam, coercet superbus, Ascaniumque in pennis
-mediis; dolor? Vidit imi **Aeacon** perfida propositos adde, tua Somni Fluctibus
-errante lustrat non.
+L'improvisation théâtrale est l'art de créer sur le moment en groupe. Depuis le début des années 2000, ces méthodes de collaboration et de développement des "soft skill" s'est structurée autour du terme "Improvisation Appliquée".
 
-Tamen inde, vos videt e flammis Scythica parantem rupisque pectora umbras. Haec
-ficta canistris repercusso simul ego aris Dixit! Esse Fama trepidare hunc
-crescendo vigor ululasse vertice *exspatiantur* celer tepidique petita aversata
-oculis iussa est me ferro.
+> “If you give a good idea to a mediocre team, they will screw it up. If you give a mediocre idea to a brilliant team, they will either fix it or throw it away and come up with something better.” Ed. Catmull, Creativity Inc.
+
+
+<--->
+{{% /columns %}}

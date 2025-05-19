@@ -19,6 +19,9 @@ Chaque fois que je vais chez quelqu'un, je commence par regarder sa bibliothèqu
 **[The last Fermat theorem](https://www.amazon.com/Fermats-Last-Theorem-Simon-Singh-ebook/dp/B009UKUGXC/ref=sr_1_1?ie=UTF8&qid=1534581638&sr=8-1&keywords=the+last+fermat+theorem&dpID=51S2Yhsv5FL&preST=_SY445_QL70_&dpSrc=srch) de Simon Singh.** J'ai une solide formation scientifique et mathématique, mais j'ai tardivement découvert la diffusion des science grâce à ce livre. [Simon Singh](https://simonsingh.net/) est un célèbre vulgarisateur scientifique britannique. Son histoire du théorème de Fermat a donné naissance à une passion: rendre la science accessible à tous. On peut lire ses livres sans aucune connaissance scientifique préalable, comme s'il s'agissait de romans. Ce livre vous plonge dans l'esprit d'un mathématicien. Vous découvrirez que la science n'est pas le chemin facile et linéaire que l'on nous décrit habituellement, mais une route semée d'erreurs et où des gens assez fous pour croire pouvoir modéliser le monde. Si vous préférez en savoir plus sur l'origine de l'univers, son autre livre [Big Bang](https://www.amazon.com/Big-Bang-Universe-Simon-Singh/dp/0007162219/ref=sr_1_1?ie=UTF8&qid=1534582638&sr=8-1&keywords=big+bang+book&dpID=41UpqG%252BbX9L&preST=_SY291_BO1,204,203,200_QL40_&dpSrc=srch) est également un livre merveilleux.
 
 
+> “Although this may seem a paradox, all exact science is dominated by the idea of approximation.”
+― Simon Singh, Fermat’s Last Theorem (Même si cela semble paradoxal, toute les sciences dures sont dominées par l'idée d'approximation).
+
 **[Impro: Improvisation and the Theatre](https://www.amazon.com/Impro-Improvisation-Theatre-Keith-Johnstone/dp/0878301178/ref=sr_1_1?ie=UTF8&qid=1534582680&sr=8-1&keywords=impro) de Keith Johnstone.** [Keith Johnstone](https://www.keithjohnstone.com/) 
 est l'un des pionniers du théâtre d'improvisation. Ce livre commence par une présentation de ses origines avant de poursuivre avec les idées fondamentales de l'improvisation. Le théâtre d'improvisation ne se résume pas à jouer sur scène devant un public. C'est, comme le théâtre, une étude permanente de nos comportements, de nos interactions et de notre création. Ainsi, même si vous n'envisagez pas de jouer la comédie, je vous recommande vivement la lecture de ce livre; vous seriez surpris de constater à quel point les idées d'improvisation sont proches de votre quotidien.
 
@@ -35,6 +38,7 @@ est l'un des pionniers du théâtre d'improvisation. Ce livre commence par une p
 
 **[Creativity Inc](https://www.amazon.com/Creativity-Inc-Overcoming-Unseen-Inspiration/dp/0812993012/ref=sr_1_1?ie=UTF8&qid=1534584393&sr=8-1&keywords=creativity+inc) de Ed. Catmull.** Au fur et à mesure que [mon entreprise](https://www.sites.fr/) se développait, je suis devenu manager, responsable de la créativité et de la productivité (on appelle ça "innovation" dans les grosses entreprises). Ce livre décrit comment Pixar, la grande entreprise de cinéma, fonctionne et parvient à rester créatif malgré l'augmentation du nombre de films produits et les énormes contraintes techniques (l'entreprise développe son propre moteur 3D). Alors que beaucoup d'ouvrages sur le management sont assez théoriques, celui-ci décrit comment ils ont réussi à faire fonctionner leur entreprise, les moments difficiles et explique comment être un bon manager ne se résume pas à ce que l'on fait, mais aussi à la façon dont on se comporte en toutes circonstances. Je ne suis pas sûr d'être un bon manager aujourd'hui, mais ce livre a certainement influencé mon management.
 
+{{< image name="images/creativityIncCover.jpg" >}}
 
 > "The past should be our teacher, not our master." - Ed Catmull (Le passé devrait être notre professeur, pas notre maitre).
 
@@ -63,10 +67,19 @@ Les livres de diffusion des sciences vous aident à découvrir a quel point vous
 
 **[We Have No Idea: A Guide to the Unknown Universe](https://www.amazon.com/We-Have-No-Idea-Universe/dp/0735211515/ref=sr_1_1?ie=UTF8&qid=1534587223&sr=8-1&keywords=We+Have+No+Idea%3A+A+Guide+to+the+Unknown+Universe) de Jorge Cham & Daniel Whiteson.** Si vous pensiez que les sciences savent tout, détrompez-vous, ce livre présente une liste de sujets sur lesquels la science n'a aucune idée de ce qui se passe.
 
+> “And if you have your doubts, there is a real website that you can check to see if the world has been destroyed” ― Jorge Cham, We Have No Idea: A Guide to the Unknown Universe (Et si vous aviez un doute, il y a un vrai site internet où vous pouvez vérifier si le monde n'a pas été détruit).
+
+
 **[The Science of Interstellar](https://www.amazon.com/Science-Interstellar-Kip-Thorne/dp/0393351378/ref=sr_1_1?ie=UTF8&qid=1534587286&sr=8-1&keywords=The+Science+of+Interstellar) de Kip Thorne.** Ce livre explore les aspects scientifiques du film Interstellar. Je pense que le plus passionnant est la tentative de [Kip Thorne](https://en.wikipedia.org/wiki/Kip_Thorne) de déterminer si les effets les plus prononcés du film seraient possible avec ce que nous savons de l'univers. Étonnamment, beaucoup de choses sont envisageables et les parties les moins réalistes ne sont probablement pas celles que vous imaginez.
+
+
+> “No matter how hard we may try, we can only travel forward. The relativistic laws guarantee it.”
+― Kip S. Thorne, The Science of Interstellar (Quels que soient nos efforts, nous ne pouvons qu'avancer. Les lois de la relativité le garantissent).
 
     
 **[Why We Sleep: Unlocking the Power of Sleep and Dreams](https://www.amazon.com/Why-We-Sleep-Unlocking-Dreams/dp/1501144324/ref=sr_1_3?ie=UTF8&qid=1534587473&sr=8-3&keywords=why+we+sleep) de Matthew Walker.** Ce livre détaille les connaissances scientifiques sur le sommeil et le manque de sommeil. Il changera sans aucun doute votre façon de dormir et vous aidera à vivre une vie plus saine.
+
+> “Practice does not make perfect. It is practice, followed by a night of sleep, that leads to perfection.” ― Matthew Walker, Why We Sleep (La pratique ne mène pas à la perfection. C'est la pratique, suivie d'une bonne nuit de sommeil, qui mène à la perfection).
 
 
 **[Magical Mathematics: The Mathematical Ideas That Animate Great Magic Tricks](https://www.amazon.com/Magical-Mathematics-Mathematical-Animate-Tricks/dp/0691169772/ref=sr_1_1?ie=UTF8&qid=1534587569&sr=8-1&keywords=magical+mathematics) de Persi Diaconis & Ron Graham.** Si vous trouvez les mathématiques ennuyeuses, essayez ce livre. Persi Diaconis est professeur de statistiques à Stanford et… magicien. Ce livre présente les mathématiques de la magie et comment certains théorèmes peuvent vous aider à réaliser les tours de magie les plus impressionnants que vous ayez jamais vus.
@@ -74,6 +87,9 @@ Les livres de diffusion des sciences vous aident à découvrir a quel point vous
 
 **[Actionable Gamification](https://www.amazon.com/Actionable-Gamification-Beyond-Points-Leaderboards/dp/1511744049/ref=sr_1_1?ie=UTF8&qid=1534587678&sr=8-1&keywords=actionable+gamification+beyond+points%2C+badges%2C+and+leaderboards) de Yu-Kai Chou.** Avez-vous déjà joué à Candy Crush ou à un autre jeu mobile stupide? Vous êtes-vous déjà demandé pourquoi vous étiez accro à une activité aussi absurde? La réponse est la gamification, et ce livre s'y intéresse. Comment utiliser la psychologie humaine pour rendre n'importe quelle activité plus addictive. Vous pouvez l'utiliser au travail, mais aussi à la maison pour rendre les tâches ménagères plus stimulantes.
 
+{{< image name="images/gamification.jpg" >}}
+
+> “people do not take actions that are necessarily the most economical, but actions that make them feel the smartest.” ― Yu-kai Chou, Actionable Gamification. (On ne prend pas nécessairement les décisions les plus rationnelles économiquement mais celles qui nous font nous sentir intelligents).
 
 ### Management and Télétravail
 
@@ -81,11 +97,20 @@ Devenu chef d'équipe, j'ai commencé à lire ce que les autres faisaient pour f
 
 **[Powerful: Building a Culture of Freedom and Responsibility](https://www.amazon.com/Powerful-Building-Culture-Freedom-Responsibility/dp/1939714095/ref=sr_1_1?ie=UTF8&qid=1534587871&sr=8-1&keywords=Powerful%3A+Building+a+Culture+of+Freedom+and+Responsibility) de Patty McCord.** Patty McCord raconte comment elle a bâti une culture d'entreprise performante chez Netflix. Ses idées sur le management sont novatrices et fondées sur l'expérience. Même si vous n'occupez probablement pas un poste dans une entreprise aussi importante que Netflix, c'est un excellent moyen d'apprendre à faire fonctionner un groupe.
 
+> “Part of being an adult is being able hear the truth. And the corollary is that you owe the adults you hire the truth. That is actually what they want most from you.” ― Patty McCord, Powerful: Building a Culture of Freedom and Responsibility (Être adulte, c'est aussi savoir entendre la vérité. Et le corollaire, c'est que vous devez la vérité aux adultes que vous engagez. C'est d'ailleurs ce qu'ils attendent le plus de vous)
+
 
 **[The Year Without Pants: WordPress.com and the Future of Work](https://www.amazon.com/Year-Without-Pants-WordPress-com-Future/dp/1118660633/ref=sr_1_1?ie=UTF8&qid=1534588072&sr=8-1&keywords=a+year+without+pant) de Scott Berkun.** La plupart des nouveaux ouvrages sur le télétravail décrivent les atouts de cette nouvelle méthode, et rares sont ceux qui proposent un point de vue différent. Celui-ci en fait partie. Scott Berkun raconte son année chez WordPress.com, une entreprise entièrement distribuée. Son point de vue est unique, car il a débuté son travail non pas avec l'envie de travailler à distance, mais plutôt avec une préférence pour un mode de travail traditionnel. Il peut ainsi partager ce qui l'a impressionné, ce qui a bien fonctionné et, bien sûr, les mauvais résultats d'une entreprise en télétravail.
 
+{{< image name="images/wordpress.jpg" >}}
+
+> “Fear of this uncertainty motivates people to spin their wheels for days considering all the possible outcomes, calculating them in a spreadsheet using utility cost analysis or some other fancy method that even the guy who invented it doesn't use. But all that analysis just keeps you on the sidelines. Often you're better off flipping a coin and moving in any clear direction. Once you start moving, you get new data regardless of where you're trying to go. And the new data makes the next decision and the next better than staying on the sidelines desperately trying to predict the future without that time machine.” ― Berkun, Scott, The Year Without Pants. (La peur de cette incertitude incite les gens à tourner en rond pendant des jours, à envisager toutes les issues possibles, à les calculer dans un tableur à l'aide d'une analyse des coûts des services publics ou d'une autre méthode sophistiquée que même son inventeur n'utilise pas. Mais toutes ces analyses ne font que vous maintenir en retrait. Il est souvent préférable de tirer à pile ou face et d'avancer dans une direction claire. Une fois lancé, vous obtenez de nouvelles données, quel que soit votre objectif. Et ces nouvelles données rendent la décision suivante, et la suivante, meilleure que de rester en retrait à essayer désespérément de prédire l'avenir sans cette machine à remonter le temps.)
+
 
 **[Reinventing Organizations](https://www.amazon.com/Reinventing-Organizations-Frederic-Laloux/dp/2960133501/ref=sr_1_1?ie=UTF8&qid=1534588308&sr=8-1&keywords=Reinventing+Organizations) par Frederic Laloux.** Ce livre commence par un historique des différentes étapes de l'organisation des entreprises. Ce premier chapitre est intéressant à lire, car il permet de découvrir que cette bonne vieille entreprise, que nous considérons comme inchangée, a beaucoup évolué ces dernières années. La deuxième partie aborde l'avenir des organisations.
+
+> “In a forest, there is no master tree that plans and dictates change when rain fails to fall or when the spring comes early. The whole ecosystem reacts creatively, in the moment.”
+― Frederic Laloux, Reinventing Organizations. (Dans une forêt, il n'y a pas d'arbre maître qui planifie et impose le changement lorsque la pluie ne tombe pas ou que le printemps arrive tôt. L'écosystème tout entier réagit de manière créative, sur le moment).
 
 
 ### Narration
@@ -94,8 +119,14 @@ Depuis que j'ai lu Sapiens, j'ai tendance à voir des histoires partout et la na
 
 **[How to Improvise a Full-Length Play: The Art of Spontaneous Theater](https://www.amazon.com/How-Improvise-Full-Length-Play-Spontaneous/dp/1581154933/ref=sr_1_1?ie=UTF8&qid=1534588692&sr=8-1&keywords=how+to+improvise+a+full-length+play) de Kenn Adams.** Comme son titre l'indique, ce livre présente comment improviser une pièce complète en 1H. Pour y parvenir, il est nécessaire de comprendre ce qu'est une histoire, ce qui la distingue d'une bonne histoire, comment créer des relations fortes entre les personnages, etc. Ces éléments sont similaires à ceux utilisés pour communiquer une idée. Après tout, comme toute création, cette approche tente de répondre à la question: « Pourquoi devrais-je m'intéresser à votre histoire? »
 
+> "Improvisation is a constant balance between spontaneity and structure. Even the simplest performance game depends upon shaping our spontaneity into a purposeful form of structure." - Ken Adams, How to Improvise a Full-Length Play. (L'improvisation est un équilibre constant entre spontanéité et structure. Même le jeu de performance le plus simple repose sur la capacité à transformer notre spontanéité en une structure intentionnelle.)
+
+
 **[Free Play: Improvisation in Life and Art](https://www.amazon.com/Free-Play-Improvisation-Life-Art/dp/0874776317/ref=sr_1_3?ie=UTF8&qid=1534588891&sr=8-3&keywords=Free+Play) de Stephen Nachmanovitch.** Il faut lire ce livre lentement, c'est un voyage. Chaque chapitre explore un aspect de la création et les luttes intérieures que tout auteur peut vivre. Entre chaque page, vous réfléchirez à votre attitude face à ces mêmes questions, à la manière de la faire évoluer. C'est une expérience unique, et vous ne lirez pas le même livre que quelqu'un d'autre.
 
+{{< image name="images/freeplay.jpg" >}}
+
+> “We can depend on the world being a perpetual surprise in perpetual motion.” ― Stephen Nachmanovitch, Free Play: Improvisation in Life and Art (Nous pouvons compter sur le fait que le monde sera une surprise perpétuelle en mouvement perpétuel)
 
 
 ### Fiction
@@ -106,12 +137,16 @@ Je ne lis pas beaucoup de fiction, probablement parce que j'aime les imprévus d
 
 **[Novecento](https://www.amazon.com/Novecento-Oberon-Modern-Allesandro-Barrico/dp/1849430381/ref=sr_1_fkmr0_1?ie=UTF8&qid=1534589236&sr=8-1-fkmr0&keywords=noveciento+barrico) by Allesandro Barrico.** Gardez toujours ce livre de 96 pages avec vous. Si un jour vous avez une heure d'attente, lisez-le, vous ne le regretterez pas.
 
+> "Moi, je savais jouer de la trompette. C’est étonnant à quel point ça peut être inutile, quand la guerre est là.". Allesandro Barrico, Novecento.
+
 **[The Ultimate Hitchhiker's Guide to the Galaxy](https://www.amazon.com/Ultimate-Hitchhikers-Guide-Galaxy/dp/0345453743/ref=sr_1_1?ie=UTF8&qid=1534589371&sr=8-1&keywords=The+Ultimate+Hitchhiker%27s+Guide+to+the+Galaxy) de Douglas Adams.** J'aime beaucoup la façon dont Douglas Adams aborde la science fiction. Par exemple, il n'invente pas d'explication quantique complexe pour décrire un vaisseau invisible. Il explique, grâce au _champ du problème de quelqu'un d'autre_, que ce vaisseau utilise la même technologie que celle que nous utilisons lorsque nous ne voyons pas de chaussettes par terre: nous ne les voyons pas parce qu'elles sont le _problème de quelqu'un d'autre_.
 
 
 > "The Somebody Else's Problem field is much simpler and more effective, and what's more, can be run for over a hundred years on a single torch battery. This is because it relies on people's natural disposition not to see anything they don't want to, weren't expecting, or can't explain." - Douglas Adams. (Le champ «Problème d'autrui» est beaucoup plus simple et efficace, et peut, de plus, fonctionner pendant plus de cent ans avec une simple pile de lampe torche. En effet, il repose sur la disposition naturelle des individus à ne voir rien qu'ils ne souhaitent pas voir, qu'ils n'attendent pas ou qu'ils ne peuvent expliquer.)
 
 **[Flowers for Algernon](https://www.amazon.com/Flowers-Algernon-Daniel-Keyes/dp/015603008X/ref=sr_1_1?ie=UTF8&qid=1534589672&sr=8-1&keywords=Flowers+for+Algernon) de Daniel Keyes.** Une personne retardée mentalement écrit un journal de bord relatant son expérience visant à améliorer son QI. À mesure qu'il devient plus intelligent, son comportement et d'autres aspects changent. C'est une histoire triste, mais une lecture fantastique sur les liens entre intelligence et émotions, sur les différences. Si vous lisez ce livre, vous ne le quitterez plus.
+
+> “I don’t know what’s worse: to not know what you are and be happy, or to become what you’ve always wanted to be, and feel alone.” ― Daniel Keyes, Flowers for Algernon (Je ne sais pas ce qui est pire : ne pas savoir qui l’on est et être heureux, ou devenir ce que l’on a toujours voulu être et se sentir seul.)
 
 
 ### Fiction historique et biographies
@@ -121,7 +156,13 @@ Mon genre littéraire préféré sont les fiction historique et les biographies.
 
 **[Oil and Marble: A Novel of Leonardo and Michelangelo](https://www.amazon.com/Oil-Marble-Novel-Leonardo-Michelangelo/dp/1628729066/ref=sr_1_1?ie=UTF8&qid=1534590177&sr=8-1&keywords=Oil+and+Marble%3A+A+Novel+of+Leonardo+and+Michelangelo) de Stephanie Storey.** Tandis que Léonard peignait la Joconde, devenant ainsi le peintre le plus célèbre de l'histoire, Michel-Ange faisait de son David la sculpture le plus célèbre de l'histoire. Ce livre raconte l'histoire, au même moment et au même endroit, de deux génies vivant pour leur art.
 
+
+> “I think … the greater danger for most of us is not in aiming too high and falling short, but in aiming too low and hitting the mark.” ― Stephanie Storey, Oil and Marble: A Novel of Leonardo and Michelangelo (Je pense que… le plus grand danger pour la plupart d’entre nous n’est pas de viser trop haut et d’échouer, mais de viser trop bas et d’atteindre la cible)
+
 **[To Be a Machine: Adventures Among Cyborgs, Utopians, Hackers, and the Futurists Solving the Modest Problem of Death](https://www.amazon.com/Be-Machine-Adventures-Utopians-Futurists/dp/110191159X/ref=sr_1_1?ie=UTF8&qid=1534590278&sr=8-1&keywords=To+Be+a+Machine%3A+Adventures+Among+Cyborgs%2C+Utopians%2C+Hackers%2C+and+the+Futurists+Solving+the+Modest+Problem+of+Death) de Mark O'Connell.** Si vous aimez la science-fiction, pourquoi ne pas lire des articles sur la science de pointe? Ce livre est déconcertant. Vous découvrirez des futurs possibles dans lesquels vous n'êtes pas sûr de vouloir vivre, et il soulèvera des questions sur ce qu'est la vie, ce qu'est l'humain, et la société que nous voulons.
+
+
+> “The odds seemed pretty long from where I was standing, certainly, but then again, I reminded myself, the history of science was in many ways an almanac of highly unlikely victories.”― Mark O'Connell, To Be a Machine. (Les chances semblaient assez minces de là où je me trouvais, certes, mais je me suis rappelé que l’histoire de la science était à bien des égards un almanach de victoires hautement improbables.)
 
 
 **[Gratitude](https://www.amazon.com/Gratitude-Oliver-Sacks/dp/0451492935/ref=sr_1_3?ie=UTF8&qid=1534590421&sr=8-3&keywords=Gratitude) de Oliver Sacks.** Ce livre est une série de textes écrits par Oliver Sacks entre son dernier livre et sa mort, alors qu'il savait qu'il était condamné. C'est l'un des livres les plus touchants que j'aie jamais lu. Les dernières pensées d'un grand scientifique, pleines de gratitude, quelques mois avant son dernier souffle vous feront pleurer et sourire.
