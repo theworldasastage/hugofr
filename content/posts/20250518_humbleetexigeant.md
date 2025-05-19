@@ -6,6 +6,9 @@ type: "post"
 tags: ["Improvisation"]
 ---
 
+# Humble et Exigeant
+
+
 Hier midi, tu mangeais ton sandwich habituel avec ce délicieux jambon-fromage. Tu étais tellement **réel** en mangeant ce repas.
 
 À chaque mouvement, on sentait que tu appréciais. Parfois, un simple sandwich peut susciter un sourire. Tes collègues autour de la table ne te prêtaient pas particulièrement attention, mais étaient inconsciemment influencés par toi: leur posture était influencée par le sac plastique sale que tu avais laissé au milieu de la table et par tes gestes en mangeant. Certains jours, on entame une discussion au déjeuner. D'autres jours, comme hier, c'est avec les yeux que se fait la communication silencieuse.

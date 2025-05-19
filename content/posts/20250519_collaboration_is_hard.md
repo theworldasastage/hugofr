@@ -1,6 +1,5 @@
 ---
-title: "Team collaboration is hard, Improvisation training can help"
-title: "La collaboration en équipe est difficile, les entrainement d'improvisation peuvent vous aider"
+title: "La collaboration en équipe est difficile, l'improvisation peut aider"
 date: 2025-05-19
 categories: ["Improvisation","Leadership"]
 type: "post"
@@ -8,6 +7,9 @@ tags: ["leadership","improvisation","collaboration"]
 draft: false
 weight: 0
 ---
+
+# La collaboration en équipe est difficile, l'improvisation peut aider
+
 
 > À quand remonte la dernière fois où vous avez quitté une réunion frustré?
 

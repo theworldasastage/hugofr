@@ -7,6 +7,9 @@ tags: ["leadership","feedback"]
 draft: false
 ---
 
+
+# Le feedback du leader
+
 J'ai récemment relu le [Guide des entretiens individuels](https://canopy.is/blog/2018/08/08/announcing-a-guide-to-one-on-one-meetings-for-managers-and-employees/) de [Claire Lew](https://blog.knowyourcompany.com/@clairejlew) de [Canopy](https://canopy.is/).
 
 Selon ce guide, l'une des meilleures questions à poser concerne le feedback du manager:
