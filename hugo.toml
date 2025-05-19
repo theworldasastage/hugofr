@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://www.theworldasastage.com/hugofr/'
 languageCode = 'en-us'
 title = 'The World as A Stage'
 theme = "hugo-book"
