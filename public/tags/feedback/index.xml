@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Feedback on The World as A Stage</title>
-    <link>http://localhost:1313/tags/feedback/</link>
+    <link>http://localhost:1313/hugofr/tags/feedback/</link>
     <description>Recent content in Feedback on The World as A Stage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 17 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/feedback/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 May 2025 18:11:34 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugofr/tags/feedback/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>The leader&#39;s feedback</title>
-      <link>http://localhost:1313/posts/20250517_leader_feedback/</link>
+      <link>http://localhost:1313/hugofr/posts/20250517_leader_feedback/</link>
       <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/20250517_leader_feedback/</guid>
-      <description>&lt;p&gt;J&amp;rsquo;ai récemment relu le &#xA;  &lt;a href=&#34;https://canopy.is/blog/2018/08/08/announcing-a-guide-to-one-on-one-meetings-for-managers-and-employees/&#34;&gt;Guide des entretiens individuels&lt;/a&gt; de &#xA;  &lt;a href=&#34;https://blog.knowyourcompany.com/@clairejlew&#34;&gt;Claire Lew&lt;/a&gt; de &#xA;  &lt;a href=&#34;https://canopy.is/&#34;&gt;Canopy&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Selon ce guide, l&amp;rsquo;une des meilleures questions à poser concerne le feedback du manager:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Souhaitez-vous plus ou moins de directives de ma part?&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;En tant que managers, nous avons besoin du feedback de nos collaborateurs et cette question ne va pas toujours de soi.&lt;/p&gt;&#xA;&lt;p&gt;J&amp;rsquo;avais l&amp;rsquo;habitude de demander ce genre de feedback en équipe, lors de &#xA;  &lt;a href=&#34;https://www.scrum.org/resources/what-is-a-sprint-retrospective&#34;&gt;rétrospectives&lt;/a&gt; ou lors d&amp;rsquo;entretiens individuels avec des questions plus générales comme &amp;ldquo;Que pensez-vous de l&amp;rsquo;entreprise?&amp;rdquo;, &amp;ldquo;Que souhaiteriez-vous changer?&amp;rdquo;. Mais je n&amp;rsquo;avais jamais demandé de feedback direct sur ma façon de gérer les équipes.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/hugofr/posts/20250517_leader_feedback/</guid>
+      <description>&lt;h1 id=&#34;le-feedback-du-leader&#34;&gt;&#xA;  Le feedback du leader&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#le-feedback-du-leader&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai récemment relu le &#xA;  &lt;a href=&#34;https://canopy.is/blog/2018/08/08/announcing-a-guide-to-one-on-one-meetings-for-managers-and-employees/&#34;&gt;Guide des entretiens individuels&lt;/a&gt; de &#xA;  &lt;a href=&#34;https://blog.knowyourcompany.com/@clairejlew&#34;&gt;Claire Lew&lt;/a&gt; de &#xA;  &lt;a href=&#34;https://canopy.is/&#34;&gt;Canopy&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Selon ce guide, l&amp;rsquo;une des meilleures questions à poser concerne le feedback du manager:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Souhaitez-vous plus ou moins de directives de ma part?&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;En tant que managers, nous avons besoin du feedback de nos collaborateurs et cette question ne va pas toujours de soi.&lt;/p&gt;&#xA;&lt;p&gt;J&amp;rsquo;avais l&amp;rsquo;habitude de demander ce genre de feedback en équipe, lors de &#xA;  &lt;a href=&#34;https://www.scrum.org/resources/what-is-a-sprint-retrospective&#34;&gt;rétrospectives&lt;/a&gt; ou lors d&amp;rsquo;entretiens individuels avec des questions plus générales comme &amp;ldquo;Que pensez-vous de l&amp;rsquo;entreprise?&amp;rdquo;, &amp;ldquo;Que souhaiteriez-vous changer?&amp;rdquo;. Mais je n&amp;rsquo;avais jamais demandé de feedback direct sur ma façon de gérer les équipes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

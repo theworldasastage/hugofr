@@ -2,23 +2,23 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Biographie on The World as A Stage</title>
-    <link>http://localhost:1313/docs/library/biographie/</link>
+    <link>http://localhost:1313/hugofr/docs/library/biographie/</link>
     <description>Recent content in Biographie on The World as A Stage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <atom:link href="http://localhost:1313/docs/library/biographie/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/hugofr/docs/library/biographie/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Impro</title>
-      <link>http://localhost:1313/docs/library/biographie/impro/</link>
+      <link>http://localhost:1313/hugofr/docs/library/biographie/impro/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/library/biographie/impro/</guid>
+      <guid>http://localhost:1313/hugofr/docs/library/biographie/impro/</guid>
       <description>&lt;h1 id=&#34;impro-improvisation-and-the-theatre&#34;&gt;&#xA;  Impro: Improvisation and the Theatre&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#impro-improvisation-and-the-theatre&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Par Keith Johnstone&lt;/em&gt;&lt;/p&gt;</description>
     </item>
     <item>
       <title>The Art of Asking</title>
-      <link>http://localhost:1313/docs/library/biographie/theartofasking/</link>
+      <link>http://localhost:1313/hugofr/docs/library/biographie/theartofasking/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/docs/library/biographie/theartofasking/</guid>
+      <guid>http://localhost:1313/hugofr/docs/library/biographie/theartofasking/</guid>
       <description>&lt;h1 id=&#34;the-art-of-asking&#34;&gt;&#xA;  The Art of Asking&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#the-art-of-asking&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;&lt;em&gt;Par Amanda Palmer&lt;/em&gt;&lt;/p&gt;</description>
     </item>
   </channel>

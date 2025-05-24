@@ -2,18 +2,32 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Leadership on The World as A Stage</title>
-    <link>http://localhost:1313/categories/Leadership/</link>
+    <link>http://localhost:1313/hugofr/categories/leadership/</link>
     <description>Recent content in Leadership on The World as A Stage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/categories/Leadership/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Sat, 24 May 2025 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugofr/categories/leadership/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>La collaboration en équipe est difficile, les entrainement d&#39;improvisation peuvent vous aider</title>
-      <link>http://localhost:1313/posts/20250519_collaboration_is_hard/</link>
+      <title>Le Leadership IT agile</title>
+      <link>http://localhost:1313/hugofr/posts/20250524_leadership_it/</link>
+      <pubDate>Sat, 24 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugofr/posts/20250524_leadership_it/</guid>
+      <description>&lt;h1 id=&#34;le-leadership-it-agile&#34;&gt;&#xA;  Le Leadership IT agile&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#le-leadership-it-agile&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;La nouvelle plateforme collaborative interne a été livrée. C&amp;rsquo;est le fruit de plusieurs années de travail, de cahier des charges, de planification, de rapport, d&amp;rsquo;ecriture de politiques internes de sécurité, de travail des équipes de développement, de recetage et tests, de configuration de différentes équipes, etc. Mais ça y est, le jour J est arrivé, il est entre les mains des utilisateurs et&amp;hellip; Ca n&amp;rsquo;apporte pas la valeur attendue.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>La collaboration en équipe est difficile, l&#39;improvisation peut aider</title>
+      <link>http://localhost:1313/hugofr/posts/20250519_collaboration_is_hard/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/20250519_collaboration_is_hard/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;À quand remonte la dernière fois où vous avez quitté une réunion frustré?&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;De mon coté la dernière fois, c&amp;rsquo;était à chaque réunion. Nous travaillons tous ensemble sur le même projet, mais c&amp;rsquo;est toujours la même chose :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;il n&amp;rsquo;arrête pas de parler&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;elle critique toujours les nouvelles idées et les détails avant même que nous puissions commencer à les développer&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;il aborde des sujets qui n&amp;rsquo;avaient rien à voir avec l&amp;rsquo;ordre du jour initial&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;elle n&amp;rsquo;arrête pas de faire des blagues stupides&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;il ne comprend pas la situation dans son ensemble&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;elle est obsédée par ses idées futiles&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;etc.&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Les réunions sont des &lt;em&gt;collaborations de groupe improvisées&lt;/em&gt; : les participants ne savent pas exactement comment ils vont contribuer et leurs réactions dépendent du comportement des autres.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/hugofr/posts/20250519_collaboration_is_hard/</guid>
+      <description>&lt;h1 id=&#34;la-collaboration-en-équipe-est-difficile-limprovisation-peut-aider&#34;&gt;&#xA;  La collaboration en équipe est difficile, l&amp;rsquo;improvisation peut aider&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#la-collaboration-en-%c3%a9quipe-est-difficile-limprovisation-peut-aider&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;À quand remonte la dernière fois où vous avez quitté une réunion frustré?&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;De mon coté la dernière fois, c&amp;rsquo;était à chaque réunion. Nous travaillons tous ensemble sur le même projet, mais c&amp;rsquo;est toujours la même chose :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;il n&amp;rsquo;arrête pas de parler&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;elle critique toujours les nouvelles idées et les détails avant même que nous puissions commencer à les développer&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;il aborde des sujets qui n&amp;rsquo;ont rien à voir avec l&amp;rsquo;ordre du jour initial&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;elle n&amp;rsquo;arrête pas de faire des blagues stupides&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;il ne comprend pas la situation dans son ensemble&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;elle est obsédée par ses idées futiles&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;etc.&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Les réunions sont des &lt;em&gt;collaborations de groupe improvisées&lt;/em&gt;: les participants ne savent pas exactement comment ils vont contribuer et leurs réactions dépendent du comportement des autres.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>The leader&#39;s feedback</title>
+      <link>http://localhost:1313/hugofr/posts/20250517_leader_feedback/</link>
+      <pubDate>Sat, 17 May 2025 00:00:00 +0000</pubDate>
+      <guid>http://localhost:1313/hugofr/posts/20250517_leader_feedback/</guid>
+      <description>&lt;h1 id=&#34;le-feedback-du-leader&#34;&gt;&#xA;  Le feedback du leader&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#le-feedback-du-leader&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;p&gt;J&amp;rsquo;ai récemment relu le &#xA;  &lt;a href=&#34;https://canopy.is/blog/2018/08/08/announcing-a-guide-to-one-on-one-meetings-for-managers-and-employees/&#34;&gt;Guide des entretiens individuels&lt;/a&gt; de &#xA;  &lt;a href=&#34;https://blog.knowyourcompany.com/@clairejlew&#34;&gt;Claire Lew&lt;/a&gt; de &#xA;  &lt;a href=&#34;https://canopy.is/&#34;&gt;Canopy&lt;/a&gt;.&lt;/p&gt;&#xA;&lt;p&gt;Selon ce guide, l&amp;rsquo;une des meilleures questions à poser concerne le feedback du manager:&lt;/p&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;Souhaitez-vous plus ou moins de directives de ma part?&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;En tant que managers, nous avons besoin du feedback de nos collaborateurs et cette question ne va pas toujours de soi.&lt;/p&gt;&#xA;&lt;p&gt;J&amp;rsquo;avais l&amp;rsquo;habitude de demander ce genre de feedback en équipe, lors de &#xA;  &lt;a href=&#34;https://www.scrum.org/resources/what-is-a-sprint-retrospective&#34;&gt;rétrospectives&lt;/a&gt; ou lors d&amp;rsquo;entretiens individuels avec des questions plus générales comme &amp;ldquo;Que pensez-vous de l&amp;rsquo;entreprise?&amp;rdquo;, &amp;ldquo;Que souhaiteriez-vous changer?&amp;rdquo;. Mais je n&amp;rsquo;avais jamais demandé de feedback direct sur ma façon de gérer les équipes.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>

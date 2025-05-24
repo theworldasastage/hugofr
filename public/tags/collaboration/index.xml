@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Collaboration on The World as A Stage</title>
-    <link>http://localhost:1313/tags/collaboration/</link>
+    <link>http://localhost:1313/hugofr/tags/collaboration/</link>
     <description>Recent content in Collaboration on The World as A Stage</description>
     <generator>Hugo</generator>
     <language>en-us</language>
-    <lastBuildDate>Mon, 19 May 2025 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
+    <lastBuildDate>Mon, 19 May 2025 18:11:34 +0200</lastBuildDate>
+    <atom:link href="http://localhost:1313/hugofr/tags/collaboration/index.xml" rel="self" type="application/rss+xml" />
     <item>
-      <title>La collaboration en équipe est difficile, les entrainement d&#39;improvisation peuvent vous aider</title>
-      <link>http://localhost:1313/posts/20250519_collaboration_is_hard/</link>
+      <title>La collaboration en équipe est difficile, l&#39;improvisation peut aider</title>
+      <link>http://localhost:1313/hugofr/posts/20250519_collaboration_is_hard/</link>
       <pubDate>Mon, 19 May 2025 00:00:00 +0000</pubDate>
-      <guid>http://localhost:1313/posts/20250519_collaboration_is_hard/</guid>
-      <description>&lt;blockquote&gt;&#xA;&lt;p&gt;À quand remonte la dernière fois où vous avez quitté une réunion frustré?&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;De mon coté la dernière fois, c&amp;rsquo;était à chaque réunion. Nous travaillons tous ensemble sur le même projet, mais c&amp;rsquo;est toujours la même chose :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;il n&amp;rsquo;arrête pas de parler&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;elle critique toujours les nouvelles idées et les détails avant même que nous puissions commencer à les développer&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;il aborde des sujets qui n&amp;rsquo;avaient rien à voir avec l&amp;rsquo;ordre du jour initial&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;elle n&amp;rsquo;arrête pas de faire des blagues stupides&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;il ne comprend pas la situation dans son ensemble&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;elle est obsédée par ses idées futiles&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;etc.&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Les réunions sont des &lt;em&gt;collaborations de groupe improvisées&lt;/em&gt; : les participants ne savent pas exactement comment ils vont contribuer et leurs réactions dépendent du comportement des autres.&lt;/p&gt;</description>
+      <guid>http://localhost:1313/hugofr/posts/20250519_collaboration_is_hard/</guid>
+      <description>&lt;h1 id=&#34;la-collaboration-en-équipe-est-difficile-limprovisation-peut-aider&#34;&gt;&#xA;  La collaboration en équipe est difficile, l&amp;rsquo;improvisation peut aider&#xA;  &lt;a class=&#34;anchor&#34; href=&#34;#la-collaboration-en-%c3%a9quipe-est-difficile-limprovisation-peut-aider&#34;&gt;#&lt;/a&gt;&#xA;&lt;/h1&gt;&#xA;&lt;blockquote&gt;&#xA;&lt;p&gt;À quand remonte la dernière fois où vous avez quitté une réunion frustré?&lt;/p&gt;&lt;/blockquote&gt;&#xA;&lt;p&gt;De mon coté la dernière fois, c&amp;rsquo;était à chaque réunion. Nous travaillons tous ensemble sur le même projet, mais c&amp;rsquo;est toujours la même chose :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;em&gt;il n&amp;rsquo;arrête pas de parler&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;elle critique toujours les nouvelles idées et les détails avant même que nous puissions commencer à les développer&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;il aborde des sujets qui n&amp;rsquo;ont rien à voir avec l&amp;rsquo;ordre du jour initial&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;elle n&amp;rsquo;arrête pas de faire des blagues stupides&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;il ne comprend pas la situation dans son ensemble&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;elle est obsédée par ses idées futiles&lt;/em&gt;&lt;/li&gt;&#xA;&lt;li&gt;&lt;em&gt;etc.&lt;/em&gt;&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;Les réunions sont des &lt;em&gt;collaborations de groupe improvisées&lt;/em&gt;: les participants ne savent pas exactement comment ils vont contribuer et leurs réactions dépendent du comportement des autres.&lt;/p&gt;</description>
     </item>
   </channel>
 </rss>
