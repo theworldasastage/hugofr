@@ -8,9 +8,9 @@ theme = "hugo-book"
 # Always put it on the top of the configuration file, otherwise it won't work
 googleAnalytics = "UA-XXXXXXXXX-X"
 
-# (Optional) If you provide a Disqus shortname, comments will be enabled on
-# all pages.
-disqusShortname = "the-world-as-a-stage-1"
+# # (Optional) If you provide a Disqus shortname, comments will be enabled on
+# # all pages.
+# disqusShortname = "the-world-as-a-stage-1"
 
 # (Optional) Set this to true if you use capital letters in file names
 disablePathToLower = true
