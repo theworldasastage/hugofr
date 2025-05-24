@@ -23,6 +23,10 @@ enableGitInfo = true
 # You can remove related files with config below
 disableKinds = ['taxonomy', 'taxonomyTerm']
 
+[services]
+  [services.disqus]
+    shortname = 'the-world-as-a-stage'
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
