@@ -100,4 +100,6 @@ Bien sur au delà de cela les aspects sécurité des systèmes d'informations re
 
 Le leadership IT n'est pas facile. Comme toute tâche en entreprise, il doit s'améliorer en continu. Le leader doit aussi avancer par petites étapes. Il a besoin de retours constants. Il doit se remettre en question. Cela l'aide à mieux répondre aux besoins de l'entreprise.
 
+Il n'y a pas de raisons que l'agitilité soit limitée aux équipes, le leadership aussi doit faire preuve d'amélioration continue.
+
 
