@@ -8,7 +8,7 @@ draft: false
 weight: 0
 ---
 
-# Le Leadership IT agile
+# Le Leadership agile
 
 La nouvelle plateforme collaborative interne a été livrée. C'est le résultat de plusieurs années de travail. Cela inclut des cahiers des charges, la planification, des rapports, et l'écriture de politiques de sécurité internes. Les équipes de développement ont aussi beaucoup contribué. Elles ont fait des tests et des configurations. Mais maintenant, le jour J est enfin arrivé. Le produit est entre les mains des utilisateurs et.... Ça ne donne pas la valeur attendue. Personne ne l'utilise et tout le monde se plaint du manque de fonctionnalités de base.
 
