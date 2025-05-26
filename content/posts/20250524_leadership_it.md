@@ -1,5 +1,5 @@
 ---
-title: "Le Leadership IT agile"
+title: "Le Leadership Informatique agile"
 date: 2025-05-24
 categories: ["Leadership"]
 type: "post"
