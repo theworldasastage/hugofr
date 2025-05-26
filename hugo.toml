@@ -23,6 +23,10 @@ enableGitInfo = true
 # You can remove related files with config below
 disableKinds = ['taxonomy', 'taxonomyTerm']
 
+[services]
+  [services.googleAnalytics]
+    id = 'G-41WGTGX8FE'
+
 [caches]
   [caches.images]
     dir = ':cacheDir/images'
