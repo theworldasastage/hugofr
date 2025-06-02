@@ -18,7 +18,10 @@ tags:
 - **Lien de téléchargement :** https://lovable.dev/
 
 
+
 ## Présentation
+
+_Remarque : Toutes les captures de site web présentées sur ce post ont été créé via Lovable_
 
 {{< image name="images/LovableMain.png" >}}
 
