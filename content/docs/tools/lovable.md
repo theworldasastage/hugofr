@@ -52,4 +52,6 @@ Le code de l'application créée est intégralement disponible et modifiable au 
 
 L'outil est aussi capable de discuter avec d'autres outils dont [Supabase](https://supabase.com/), un autre outil de base de données, qui permet alors d'avoir des informations qui restent (utilisateurs, ajout de documents, etc.)
 
-Cela en fait un outil parfait de prototypage et/ou d'automatisation et simplification de flux de travail 
+Cela en fait un outil parfait de prototypage et/ou d'automatisation et simplification de flux de travail!
+
+
