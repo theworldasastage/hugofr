@@ -73,7 +73,7 @@ La dernière étape peut se faire en même temps que la précédente ou à des i
 
 Au fur et à mesure, on construit un graphe de connaissance que l'on peut naviguer.
 
-{{< image name="images/ObsidianGraph.jpg" >}}
+{{< image name="images/ObsidianGraph.png" >}}
 
 
 ## Bonus : Partager sans effort
@@ -86,9 +86,9 @@ A la fin de la semaine, votre veille est prête à être revue.
 
 ## Logiciel
 
-Lier des notes peut être compliqué. Heureusement, des logiciels existent pour aider. Mon logiciel préféré pour ça est [Obsidian](https://obsidian.md/). Il est gratuit et open source. Toutes les notes sont stockées comme des fichiers texte. Cela signifie qu'elles sont locales et faciles à exporter vers d'autres logiciels.
+Lier des notes peut être compliqué. Heureusement, des logiciels existent pour aider. Mon logiciel préféré pour ça est [Obsidian](/docs/tools/obsidian). Il est gratuit et open source. Toutes les notes sont stockées comme des fichiers texte. Cela signifie qu'elles sont locales et faciles à exporter vers d'autres logiciels.
 
-{{< image name="images/obsidianScreen.jpg" >}}
+{{< image name="images/obsidianScreen.png" >}}
 
 
 ### Références
