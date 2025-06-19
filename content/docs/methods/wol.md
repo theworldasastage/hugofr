@@ -32,6 +32,8 @@ Et grâce à cela, le monde d'aujourd'hui se développe grâce à des millions d
 
 Cette manière de travailler “à haute voix” n’est donc **ni nouvelle, ni étrange**. Elle est même **fondamentale** : c’est ce qui a porté la croissance du Web depuis les années 90. Et pourtant, en entreprise elle est encore trop peu répandue.
 
+Et il ne s'agit pas de ne partager que le coté positif mais bien **tout**. En particulier partager aussi le processus de création et d'apprentissage. Par exemple le développeur du jeu-vidéo [Stardeus](https://store.steampowered.com/app/1380910/Stardeus/) développe l'intégralité de son jeu vidéo [en live sur twitch](https://www.twitch.tv/directory/category/stardeus?lang=fr). Il arrive du coup bien sur qu'il passe des heures à faire des choses inutiles, à avoir l'air ridicule ou simplement à revenir en arrière. Mais il arrive aussi que son chat lui débloque un problème ou lui suggère une approche nouvelle. Et surtout, en faisant cela, il apprend, il se connecte avec d'autres personnes et progresse.
+
 ## 🔑 Les 5 principes du Working Out Loud
 
 Travailler à voix haute repose sur **cinq grands principes** :
