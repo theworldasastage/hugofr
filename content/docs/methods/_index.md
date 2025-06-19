@@ -13,18 +13,16 @@ Cette section rassemble une liste de méthodologies.
 
 ## Productivité
 
-**La méthode Zettelkasten**
+**[La méthode Zettelkasten](/docs/methods/taking_notes)**
 
 Une méthode pour prendre des notes de façon à ce que l'on se souvienne et on puisse retrouver ces idées et les faire travailler avec toutes les idées qu'on a pu rencontrer.
 
-[Plus d'infos>>](/docs/methods
-/taking_notes)
+[Plus d'infos>>](/docs/methods/taking_notes)
 
 ## Communication
 
-**Travailler à voix haute (Working out Loud)**
+**[Travailler à voix haute (Working out Loud)](/docs/methods/wol)**
 
 Une méthode consistant à partager en permanence ce qu'on fait pour renforcer la transparence et la communication en entreprise.
 
-[Plus d'infos>>](/docs/methods
-/wol)
+[Plus d'infos>>](/docs/methods/wol)
