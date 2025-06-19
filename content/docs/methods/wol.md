@@ -4,6 +4,8 @@ tags:
   - communication
 ---
 
+# Travailler à voix haute
+
 Bien qu'organisés en entreprises, nous travaillons le plus souvent seuls au jour le jour. Puis, de temps en temps, nous rencontrons d'autres personnes avec qui échanger. [Ces réunions sont même devenues le fléau du travail moderne](https://hbr.org/2017/07/stop-the-meeting-madness). Il arrive donc régulièrement que deux voisins de bureaux découvrent tardivement qu'ils ont le même problème à résoudre.
 
 Puis le télétravail s'est imposé. Et, notamment avec le COVID, nous avons commencé à nous isoler davantage avec un télétravail "forcé". Les conséquences sont vite apparues : dépression, perte de sens, rupture des liens. Pourtant, de nombreuses équipes de télétravaileurs n'ont aucun problème. Par exemple, l’entreprise de 800 télétravailleurs derrière WordPress [a fermé ses bureaux en 2022](https://qz.com/1002655/the-company-behind-wordpress-is-closing-its-gorgeous-san-francisco-office-because-its-employees-never-show-up) car ils étaient devenus inutiles!
@@ -37,6 +39,8 @@ Travailler à voix haute repose sur **cinq grands principes** :
 ### 1. **Rendez votre travail visible**
 
 Ne travaillez pas dans l’ombre. Faites savoir ce que vous faites. Cela permet d’obtenir des retours. Vous allez aussi vous connecter avec ceux qui rencontrent les mêmes défis. Puis vous allez être reconnu dans vos domaines de compétence — même ceux qui ne figurent pas sur votre fiche de poste.
+
+> Exemple : Vous venez d'essayer un nouvel outil IA type ChatGPT. Ca n'a rien donné d'intéressant, d'habitude dans ce cas vous passez à autre chose. Faites un petit post sur Teams ou tout autre outil de chat interne explliquant ce que vous avez fait et les problèmes que vous avez eu avec quelques captures.
 
 ### 2. **Construisez votre réseau**
 
