@@ -30,7 +30,7 @@ Le web avait pour but de **rendre l'information plus accessible et** faciliter l
 
 Et grâce à cela, le monde d'aujourd'hui se développe grâce à des millions de personnes qui partagent. Elles partagent leur savoir à travers de blog. Elles discutent sur des forums. Elles parlent sur des podcast ou des stream vidéo.
 
-Cette manière de travailler “à haute voix” n’est donc **ni nouvelle, ni étrange**. Elle est même **fondamentale** : c’est ce qui a porté la croissance du Web depuis les années 90.
+Cette manière de travailler “à haute voix” n’est donc **ni nouvelle, ni étrange**. Elle est même **fondamentale** : c’est ce qui a porté la croissance du Web depuis les années 90. Et pourtant, en entreprise elle est encore trop peu répandue.
 
 ## 🔑 Les 5 principes du Working Out Loud
 
