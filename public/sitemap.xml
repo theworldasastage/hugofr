@@ -8,19 +8,32 @@
     <loc>http://localhost:1313/hugofr/docs/library/</loc>
     <lastmod>2025-05-19T14:44:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugofr/docs/Outils/</loc>
+    <loc>http://localhost:1313/hugofr/docs/methods/</loc>
+    <lastmod>2025-06-19T15:48:33+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugofr/docs/tools/</loc>
+    <lastmod>2025-05-26T09:09:52+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugofr/tags/agile/</loc>
-    <lastmod>2025-05-24T15:50:53+02:00</lastmod>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugofr/categories/Creativity/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugofr/tags/creativity/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugofr/posts/20250627_idea/</loc>
+    <lastmod>2025-06-27T00:00:00+00:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugofr/posts/20250524_leadership_it/</loc>
-    <lastmod>2025-05-24T15:50:53+02:00</lastmod>
+    <lastmod>2025-05-26T17:40:58+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugofr/categories/leadership/</loc>
-    <lastmod>2025-05-24T15:50:53+02:00</lastmod>
+    <lastmod>2025-05-26T17:40:58+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugofr/tags/leadership/</loc>
-    <lastmod>2025-05-24T15:50:53+02:00</lastmod>
+    <lastmod>2025-05-26T17:40:58+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugofr/tags/collaboration/</loc>
     <lastmod>2025-05-19T18:11:34+02:00</lastmod>
@@ -46,6 +59,9 @@
     <loc>http://localhost:1313/hugofr/docs/home/hidden/</loc>
     <lastmod>2025-05-19T14:44:00+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/hugofr/docs/methods/talking_notes/</loc>
+    <lastmod>2025-06-19T15:46:36+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/hugofr/docs/library/theatre/audition/</loc>
     <lastmod>2025-05-19T14:44:00+02:00</lastmod>
   </url><url>
@@ -61,6 +77,9 @@
     <loc>http://localhost:1313/hugofr/docs/library/communication/</loc>
     <lastmod>2025-05-19T14:44:00+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/hugofr/tags/communication/</loc>
+    <lastmod>2025-06-19T16:02:12+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/hugofr/docs/library/creativity/</loc>
     <lastmod>2025-05-19T14:44:00+02:00</lastmod>
   </url><url>
@@ -74,7 +93,7 @@
     <lastmod>2025-05-19T14:44:00+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugofr/docs/</loc>
-    <lastmod>2025-05-19T17:53:17+02:00</lastmod>
+    <lastmod>2025-06-19T16:02:12+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugofr/docs/library/data/</loc>
     <lastmod>2025-05-19T14:44:00+02:00</lastmod>
@@ -85,7 +104,8 @@
     <loc>http://localhost:1313/hugofr/docs/library/fiction/</loc>
     <lastmod>2025-05-19T14:44:00+02:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/hugofr/docs/Outils/hemmingwayapp/</loc>
+    <loc>http://localhost:1313/hugofr/docs/tools/hemmingwayapp/</loc>
+    <lastmod>2025-05-26T09:16:06+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugofr/docs/library/biographie/impro/</loc>
     <lastmod>2025-05-19T14:44:00+02:00</lastmod>
@@ -96,6 +116,9 @@
     <loc>http://localhost:1313/hugofr/docs/home/readinglist/</loc>
     <lastmod>2025-05-19T17:53:17+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/hugofr/docs/tools/lovable/</loc>
+    <lastmod>2025-06-02T11:33:39+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/hugofr/docs/library/management/</loc>
     <lastmod>2025-05-19T14:44:00+02:00</lastmod>
   </url><url>
@@ -105,7 +128,14 @@
     <loc>http://localhost:1313/hugofr/docs/library/storytelling/</loc>
     <lastmod>2025-05-19T14:44:00+02:00</lastmod>
   </url><url>
+    <loc>http://localhost:1313/hugofr/tags/Notes/</loc>
+    <lastmod>2025-06-04T11:11:41+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugofr/docs/tools/obsidian/</loc>
+    <lastmod>2025-06-04T11:11:41+02:00</lastmod>
+  </url><url>
     <loc>http://localhost:1313/hugofr/tags/productivity/</loc>
+    <lastmod>2025-06-19T15:46:36+02:00</lastmod>
   </url><url>
     <loc>http://localhost:1313/hugofr/docs/library/biographie/theartofasking/</loc>
     <lastmod>2025-05-19T14:44:00+02:00</lastmod>
@@ -115,5 +145,8 @@
   </url><url>
     <loc>http://localhost:1313/hugofr/docs/library/theatre/</loc>
     <lastmod>2025-05-19T14:44:00+02:00</lastmod>
+  </url><url>
+    <loc>http://localhost:1313/hugofr/docs/methods/wol/</loc>
+    <lastmod>2025-06-19T16:02:12+02:00</lastmod>
   </url>
 </urlset>
